@@ -19,6 +19,7 @@ torrance()
 get_server_ntp()
 ```
 
+# 簡單的範例
 ```py
 Ntp = NTP("")
 Ntp.torrance()
