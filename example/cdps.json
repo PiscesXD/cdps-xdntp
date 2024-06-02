@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "name": "xdntp",
+    "description": {
+        "zh_tw": "xdntp"
+    },
+    "author": [
+        "PiscesXD"
+    ],
+    "dependencies": {
+        "cdps": ">=1.0.13"
+    },
+    "resources": [
+        "AGPL-3.0"
+    ],
+    "link": "https://github.com/PiscesXD/cdps-discordwebhook"
+}
