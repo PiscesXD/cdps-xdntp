@@ -1,7 +1,25 @@
-# 這是為 CDPS 打造出的 xdntp 套件 跟一般ntp一樣
+## 必須使用套件
 
-[CDPS](https://github.com/ExpTechTW/CDPS)
+```py
+pip install ntplib
+```
 
-# 使用範例
+# 使用方法
+```py
+NTP("") < 放上NTP 伺服器網址
+```
 
-[使用文檔](https://github.com/PiscesXD/cdps-xdntp/blob/main/read.md)
+# 獲取 本地的時間跟伺服器時間戳差
+```py
+torrance()
+```
+
+# 獲取 伺服器時間戳
+```py
+get_server_ntp()
+```
+
+```py
+Ntp = NTP("")
+Ntp.torrance()
+```
