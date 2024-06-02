@@ -1,4 +1,4 @@
-# 這是為 CDPS 打造出的 xdntp 套件 跟一般ntp一樣
+# 這是為 CDPS 打造出的 xdntp 套件 簡單的NTP 
 
 [CDPS](https://github.com/ExpTechTW/CDPS)
 
